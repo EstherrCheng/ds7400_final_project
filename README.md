@@ -18,7 +18,8 @@ This system performs **two-stage extraction**:
 
 ### Installation Steps
 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 ## Usage
