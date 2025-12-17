@@ -1,6 +1,6 @@
 # PubMed Knowledge Graph Extraction System
 
-A comprehensive system for extracting disease-related knowledge from PubMed abstracts and building a Neo4j knowledge graph for Graph-RAG applications.
+A system for extracting disease-related knowledge from PubMed abstracts and building a knowledge graph for Graph-RAG applications.
 
 ## Overview
 
